@@ -1,4 +1,5 @@
 # React-Core-Loading-Spinner
+# 使用React 制作一个简单的加载动画组件
 
 [![npm](https://img.shields.io/npm/v/react-core-loading-spinner.svg?maxAge=2592000)]()
 ![Node Version](https://img.shields.io/node/v/react-core-loading-spinner.svg "Node Version")
